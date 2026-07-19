@@ -1,0 +1,236 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Harry Potter and the Philosophers Stone",
+            "author": "JK Rowling",
+            "quantity": 500
+        },
+        {
+            "id": 2,
+            "title": "Harry Potter and the Chamber of Secrets",
+            "author": "JK Rowling",
+            "quantity": 3000
+        },
+        {
+            "id": 4,
+            "title": "Harry Potter and the Goblet of Fire",
+            "author": "JK Rowling",
+            "quantity": 3
+        },
+        {
+            "id": 5,
+            "title": "Harry potter and the Order of the Phoenix",
+            "author": "JK Rowling",
+            "quantity": 50000
+        },
+        {
+            "id": 6,
+            "title": "Harry Potter and the Half Blood Prince ",
+            "author": "JK Rowling",
+            "quantity": 5
+        },
+        {
+            "id": 7,
+            "title": "Harry Potter and the Deathly Hallows",
+            "author": "JK Rowling",
+            "quantity": 4
+        },
+        {
+            "id": 9,
+            "title": "Harry Potter and the Prisoner of Azkaban",
+            "author": "JK Rowling",
+            "quantity": 100000
+        },
+        {
+            "id": 11,
+            "title": "Hunger Games",
+            "author": "Suzanne Collins",
+            "quantity": 20000
+        },
+        {
+            "id": 12,
+            "title": "Python Course",
+            "author": "Jayden",
+            "quantity": 2000000
+        },
+        {
+            "id": 13,
+            "title": "Game Of Thrones",
+            "author": "George RR Martin",
+            "quantity": 500000
+        },
+        {
+            "id": 14,
+            "title": "Wheres Wally",
+            "author": "Anonymous",
+            "quantity": 50000000
+        },
+        {
+            "id": 16,
+            "title": "Venom",
+            "author": "Stan Lee",
+            "quantity": 2000
+        }
+    ],
+    "members": [
+        {
+            "id": 1,
+            "name": "Jay",
+            "contact_info": "jay@mail.com"
+        },
+        {
+            "id": 2,
+            "name": "Janyla",
+            "contact_info": "Janyla@mail.com"
+        },
+        {
+            "id": 13,
+            "name": "John Wick",
+            "contact_info": "JohnWick@mail.com"
+        },
+        {
+            "id": 14,
+            "name": "Steve Jones",
+            "contact_info": "SteveJ@mail.com"
+        },
+        {
+            "id": 16,
+            "name": "Tim Horton",
+            "contact_info": "Tim@mail.com"
+        }
+    ],
+    "loans": [
+        {
+            "id": 1,
+            "book_id": 1,
+            "member_id": 1,
+            "loan_date": "2024-12-11",
+            "return_date": "2024-12-11",
+            "fee": 0.0
+        },
+        {
+            "id": 2,
+            "book_id": 1,
+            "member_id": 1,
+            "loan_date": "2024-12-11",
+            "return_date": "2024-12-11",
+            "fee": 0.0
+        },
+        {
+            "id": 3,
+            "book_id": 1,
+            "member_id": 1,
+            "loan_date": "2024-12-11",
+            "return_date": "2024-12-11",
+            "fee": 0.0
+        },
+        {
+            "id": 4,
+            "book_id": 4,
+            "member_id": 2,
+            "loan_date": "2024-12-11",
+            "return_date": "2024-12-11",
+            "fee": 0.0
+        },
+        {
+            "id": 16,
+            "book_id": 12,
+            "member_id": 1,
+            "loan_date": "2025-01-21",
+            "return_date": "2025-01-21",
+            "fee": 0.0
+        },
+        {
+            "id": 17,
+            "book_id": 1,
+            "member_id": 1,
+            "loan_date": "2025-01-23",
+            "return_date": "2025-03-01",
+            "fee": 0.0
+        },
+        {
+            "id": 18,
+            "book_id": 2,
+            "member_id": 1,
+            "loan_date": "2025-01-24",
+            "return_date": "2025-03-05",
+            "fee": 0.0
+        },
+        {
+            "id": 19,
+            "book_id": 5,
+            "member_id": 1,
+            "loan_date": "2025-01-24",
+            "return_date": "2025-05-07",
+            "fee": 44.5
+        },
+        {
+            "id": 20,
+            "book_id": 6,
+            "member_id": 1,
+            "loan_date": "2025-01-24",
+            "return_date": "2025-06-04",
+            "fee": 58.5
+        },
+        {
+            "id": 21,
+            "book_id": 1,
+            "member_id": 1,
+            "loan_date": "2025-01-28",
+            "return_date": "2025-05-06",
+            "fee": 91.0
+        },
+        {
+            "id": 22,
+            "book_id": 1,
+            "member_id": 1,
+            "loan_date": "2025-01-28",
+            "return_date": "2025-01-28",
+            "fee": 0.0
+        },
+        {
+            "id": 23,
+            "book_id": 12,
+            "member_id": 1,
+            "loan_date": "2025-01-31",
+            "return_date": "2025-01-31",
+            "fee": 0.0
+        },
+        {
+            "id": 24,
+            "book_id": 1,
+            "member_id": 1,
+            "loan_date": "2025-02-12",
+            "return_date": "2025-02-20",
+            "fee": 1.0
+        }
+    ],
+    "admins": [
+        {
+            "id": 1,
+            "username": "NewAdmin",
+            "password": "Admin"
+        },
+        {
+            "id": 2,
+            "username": "JayAdmin",
+            "password": "Admin123"
+        },
+        {
+            "id": 3,
+            "username": "Admin123",
+            "password": "Admin123"
+        },
+        {
+            "id": 4,
+            "username": "EmployedAdmin",
+            "password": "Employed"
+        },
+        {
+            "id": 5,
+            "username": "Admin",
+            "password": "Admin123"
+        }
+    ]
+}

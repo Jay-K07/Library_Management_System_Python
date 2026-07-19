@@ -1,0 +1,15 @@
+2025-01-21 02:46:21,482 - ERROR - Error fetching loan statistics: no such column: returned
+2025-01-28 18:08:03,660 - ERROR - Invalid date format provided: 20250601
+2025-01-28 18:09:36,650 - ERROR - Invalid date format provided: 20250607
+2025-01-31 01:09:12,076 - ERROR - Invalid member ID format: ten
+2025-01-31 01:10:55,346 - ERROR - Invalid member ID format: ten
+2025-01-31 13:32:46,640 - ERROR - Invalid input for Book ID: ten
+2025-01-31 17:05:49,889 - ERROR - Invalid input format: invalid literal for int() with base 10: 'ten'
+2025-01-31 17:06:18,844 - ERROR - Invalid input format: invalid literal for int() with base 10: 'ten'
+2025-01-31 17:11:41,785 - ERROR - Invalid input for Book ID: ten
+2025-01-31 17:12:59,662 - ERROR - Invalid input for Member ID: ten
+2025-01-31 17:13:05,165 - ERROR - Invalid input for Book ID: ten
+2025-01-31 17:36:38,199 - ERROR - Invalid input for Member ID: ten
+2025-01-31 17:42:33,229 - ERROR - Invalid loan ID format: invalid literal for int() with base 10: 'ten'
+2025-02-01 04:13:55,325 - ERROR - Invalid input for Book ID: ten
+2025-02-12 19:51:40,542 - ERROR - Invalid input for Book ID: ten
